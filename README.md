@@ -1,16 +1,11 @@
-# odd_even_apps
+# Odd Even Flutter App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+The **Odd Even Flutter App** is a simple mobile application built with Flutter that allows users to input a number and determine if it is odd or even. The app demonstrates basic Flutter concepts including state management and user input handling.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Input field for entering a number
+- Button to check if the number is odd or even
+- Displays the result on the screen
